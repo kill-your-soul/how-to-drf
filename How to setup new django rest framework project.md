@@ -1,5 +1,4 @@
 # Django REST API
----
 ## Prerequisites
 1. [Git](https://git-scm.com/)
 2. [Python](https://python.org/)
